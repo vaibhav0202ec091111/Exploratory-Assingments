@@ -1,0 +1,2 @@
+#creating plot 2
+plot(var1$Global_active_power~var1$dateTime, type="l", ylab="Global Active Power (kilowatts)", xlab="")
